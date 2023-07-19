@@ -1,1 +1,30 @@
 /*  your css code here. If applicable */
+*{
+	margin:0px;
+	padding:0px;
+	background-color:#f5f5f5;	
+}
+h1{
+	margin-top:70px;
+
+	margin-left:30px;
+}
+  .main {
+        border: 1px solid lightgray;
+        height: 80px; 
+        position: relative;
+	  background-color:white;
+	  margin:30px;
+      }
+      
+      .column1 {
+        padding:20px;
+		   background-color:white;
+      }
+      #bottom {
+        position: absolute;
+        bottom: 0px;
+        right: 0;
+     padding:15px;
+	 background-color:white;
+      }
